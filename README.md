@@ -1,0 +1,3 @@
+Study Time Tracker
+
+This program estimates your weekly study hours based on how much you studied today. It asks the user to enter the number of hours studied, includes basic error handling to ensure the input is valid, performs a calculation to project weekly study time, and displays the result in a clear, readable format. To run the program, open a terminal in the project folder and run the Python file using either “python app.py” or “python3 app.py.” Example interaction: the user enters “2” and the program responds by stating they are on track to study 14 hours for the week.
